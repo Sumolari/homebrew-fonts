@@ -28,6 +28,7 @@ cask :v1 => 'cleanmymac-2' do
       '~/Library/Preferences/com.macpaw.CleanMyMac2.KnowledgeBase.plist',
       '~/Library/Preferences/com.macpaw.CleanMyMac2.plist',
     ]
+  end
 
   name 'CleanMyMac'
   homepage 'http://macpaw.com/cleanmymac'
